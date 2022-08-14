@@ -1,7 +1,7 @@
 FROM ubuntu:22.04
 
 LABEL maintainer="mullholland"
-LABEL build_update="2022-06-19"
+LABEL build_update="2022-08-14"
 
 ARG DEBIAN_FRONTEND=noninteractive
 
